@@ -208,6 +208,10 @@ body{
     font-weight:bold;
 }
 
+#heart-color {
+    color:rgb(234, 104, 104) !important;
+}
+
 #profile_img {
     width:180px;
     height:180px;
@@ -437,7 +441,8 @@ body{
 ::-webkit-scrollbar-thumb {background:var(--text-color);}:root {
   --bg-color: #fff;
   --text-color: rgb(10, 10, 10);
+  --icon-color: rgb(234, 104, 104);
   --blog-gray-color: rgb(80, 80, 80);
-  --background-image: linear-gradient(90deg, rgba(10, 10, 10, 0.4), rgb(10, 10, 10, 0.4)), url("https://images.unsplash.com/photo-1556814278-8906c7d3a05f?w&#x3D;1050");
+  --background-image: linear-gradient(90deg, rgba(10, 10, 10, 0.4), rgb(10, 10, 10, 0.4)), url("http://huhmiel.free.fr/philippe-pereira/images/header-background.jpg");
   --background-background: #fff;
 }
